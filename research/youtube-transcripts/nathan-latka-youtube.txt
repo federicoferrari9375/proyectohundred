@@ -1,6 +1,884 @@
-Title: Challenger Sales Method for B2B Agencies (2026)
-Author: Alex Berman
-Date: 2026
-Source: https://www.youtube.com/watch?v=Jv_Rs0LmL60
+Title: 
+He Made $6M Selling AI Books for Children (And How You Can Too)
+Author: Nathan Latka
+Date: 2025
+Source: https://www.youtube.com/watch?v=O8L1dbhlCcs
 
 Transcript:
+Can I ask how many sales total you have
+so far?
+>> Yeah, close to 100,000.
+>> That's a ton. When did you launch?
+>> At the beginning of this year. Uh we
+only really started scaling uh very
+recently, right?
+>> Can I just do that math? I mean, can I
+do 100,000 sales times 60 a piece? You
+guys have done 6 million bucks in total
+revenue life today.
+>> I think this month, yes, we're in the
+six figures. Everything else you see is
+is customuilt.
+>> Hey folks, my guest today is Ricardo.
+He's the co-founder of Dream Stories,
+harnessing generative AI to bring
+immersive storytelling and image
+creation to life. So I started noticing
+this repeatable pattern that I that I
+figured you can build services around
+this, right? You know, something that
+grows with you and kind of, you know,
+matches the phase that that you're in.
+Before launching the company in 2023, he
+was VP of growth at a body scan startup
+called Neco Health. Prior to that, he
+founded a [music] snack company and was
+a founding member of Spotify's US team.
+Ricardo, you ready to take us to the
+top?
+>> Absolutely.
+>> All right. People hear Spotify and early
+and they assume you got rich off
+options. Is that accurate?
+>> Uh, fairly accurate. Yes. I was early
+enough that it it made sense. Yes.
+>> What year was that?
+>> So I joined in uh 2009 I guess. Yeah.
+>> Okay. Interesting. And um is it fair to
+say because I want to understand the
+build up obviously at dreamstories.ai.
+Did you basically take a big chunk of
+the money you made there and sort of
+plow it into the new the new venture or
+how did you think about that those
+options?
+>> Yeah. No, part of it. Yes. But I I did
+start a few companies in between as
+well. Uh that I've also had an exit for.
+So So a mix of both, right? So So the
+Spotify got the car and the house, you
+know, and then the the other stuff got
+the uh got the company going.
+>> Fair enough. Okay. Let's let's not bury
+the lead here. Let's get an overview of
+Dream Stories first and then we'll go go
+get your sort of history between Spotify
+and Dream Stories. So what is
+DreamStories.ai?
+>> Yeah. So DreamStories.ai AI is um I
+usually describe it as um either in the
+Gent content studio or personalized
+content studio. So this is actually an
+idea that I had um you know it actually
+dates back to Spotify funny enough from
+uh you know I initially at Spotify I was
+on the content team. So I dealt as you
+can imagine with the the large catalog
+we had there and uh I started noticing
+that there was content in the platform
+that was personalized. This could be
+birthday songs or love songs or so
+forth. And back then I had this thought
+experiment if you will about I wonder if
+one day we'll have you know Beyonce sing
+a song for you or something like that
+right and I this was this was really
+just an experiment there was no sorry
+thought experiment right there was no AI
+to do it there was certainly not
+generative AI uh but it's interesting
+that throughout my career I've always
+worked somewhat around personalization
+and trying to do personalization at
+scale as you mentioned I founded a snack
+company where I was trying to do
+personalized nutrition for people with
+the body scanner which is actually a
+company by Daniel E as well of Spotify.
+We're almost doing the same thing in the
+reverse manner. You can think of
+healthcare as an artisan good, right?
+You sit there and there's a doctor
+across from you doing performing a
+service for you 101. And with Neco
+Health, we are trying to scale it right
+at mass do a good service personalized
+service at scale. And so dream stories
+is is that is kind of a connection of
+these things and trying to do that for
+content. uh essentially because when
+when as you mentioned I started the
+company in 2023 uh this was around the
+times you started seeing stuff like
+stable diffusion come out uh you know
+with the with the you know in mid
+journey and so forth with the with the
+image stuff and uh I when I saw it to be
+honest I had this moment oh this is
+the moment where these things actually
+become possible because in the meantime
+you've seen stuff like come up you know
+the music generative music stuff
+>> su n o
+>> yes um there there's stuff like there's
+a few other models out there that let
+you create personalized music if you
+will. I actually think this is is more
+interesting for other use cases other
+than music. Um and uh and that's kind of
+we we built a company around the
+experimentation around th those
+contents, right? And so we decided to
+start with the family content uh
+particularly children's books uh you
+know um as as a first market but
+essentially we're building the the real
+core of what we're building is the
+platform that allows you to take a
+consumer that is not technical right and
+give them the ability to to create and
+cons and basically create content for
+self- consumption right of their own
+family
+>> interesting um and and I'm just trying
+to think like what's the comparable
+right so are are parents still buying ch
+physical children's books for their kids
+and are you going to go take that market
+share or sort of how do you how do you
+think about that? What's the revenue
+model?
+>> Yeah, it's actually so I it's not a
+coincidence that you know things lined
+up as I as you know as I looked at the
+behavior at home with my own child and I
+started noticing that my you know with
+my family like we read to our to our son
+um every night and I started noticing
+this is kind of a recurrent behavior
+that happens every single night. There's
+something interesting about children's
+content as well that is quite it's
+repetitive to some degree. Um but you
+know it changes after a while. So a
+child will basically will want to read
+or consume the same content multiple
+times in the week and then move on to
+the next thing. So I started noticing
+this repeatable pattern that I that I
+figured you can build services around
+this right you know something that grows
+with you and kind of you know matches
+the phase that that you're in. It also
+happens that I'm Portuguese my wife is
+Swedish. So, we're, you know, similar
+culture but different languages. And so,
+I realize, you know, there's a lot of
+people out there that we could create
+content that it'll be hard to find in
+stores, right? But to your question
+about if I'm looking to take that
+market, it's actually still a growing
+segment. Uh, it's actually one of the
+ones in in books that continues to grow
+in part because parents want to get kids
+away from tablets and uh, you know, and
+that digital digital formats
+particularly at bad time. Um but but you
+know that's kind of how I saw an
+opportunity to use that as an entry
+market, right? But but uh also one that
+is filled with sort of non what I'll
+describe as non techchnic no sort of non
+tech players you know as you can imagine
+there's a lot of investment in video and
+other formats. uh you saw Sora come out
+you know with with a generative AI video
+uh and I you know and I have no interest
+in playing in a market that has you know
+very diluting margins you know because
+of this extremely overly wellunded
+players you know bringing the the cost
+either either to zero essentially so
+>> what's the status right now on the
+company are you pre-revenue post revenue
+>> no we're we're postrevenue so we're
+selling uh we the you know we've done it
+in a very iterative manner right so we
+basically wanted to get to market as
+soon as possible with the prototype,
+right? Uh, which catches a segment of
+it. The the way I try to explain to
+people is that you can imagine that
+there's people that literally just want
+to, you know, sit in front of the TV or
+something and just watch be something
+fat to them. And there's people that
+have a lot of agency that want to create
+their own their own stuff, you know, and
+they'll go to trouble of doing it. And
+we started with like a very simple
+product where all you need to do is
+really like submit the picture um as you
+can see there. And basically we'll
+create it will create a content for you.
+Um, and as we evolving, right, again, as
+we collect more data, we're evolving it
+to be become, you know, give you sort of
+more agency, right? Essentially, like
+being able to be more tailored to to
+what you want, right? So, we got a lot
+of requests around this into essentially
+making it better for um for the, you
+know, more personalized in a way.
+>> I I uh this is a company I just invested
+in here in Austin, Texas, their general
+store. So, maybe we'll get a children's
+book about Ian and Jess, the co-founders
+uh on this. Uh but this is this is
+interesting. Uh
+>> yeah, in this case you you will be only
+for one of them but uh the first one
+right we actually do allow multiple
+characters in the book but you have to
+currently have to do it one at a time
+but
+>> it's fine. Let's see.
+>> I I don't
+>> Yeah, I don't pay but we'll see.
+>> Uh you can keep going. Uh and then
+essentially after you create the content
+and decided this is actually what you
+want to do. You see it picked up the uh
+the woman. Um uh but yeah and then later
+you know if you keep going you know
+eventually you will hit the pay wall of
+life to create the the full book for
+you.
+>> Mhm.
+>> Interesting. So you capture me as a
+lead. Okay. You get my phone number so
+you can follow up if you want and then
+what I say the pay wall after that.
+>> Mhm. Yeah. You're going to get to the to
+the item.
+We
+>> give you 12 purchase. So what's the
+total price going to be?
+>> Yeah. With this discount will be 48.
+Oh, interesting. Okay. So, are people
+making their kid the hero
+>> generally? Yeah, we have uh sometimes
+pets uh but the vast majority will put
+the their kid right.
+>> Wait, so where's the pay wall? When will
+I hit the pay wall? Oh, order book.
+>> There we go.
+>> Oh, I see. Is this accurate? So, you had
+648 sales so far?
+>> No, we have more sales. Those are
+reviews, right?
+>> Oh. Oh. Oh, sorry. Can I ask how many
+sales total you have so far? Yeah, close
+to 100,000. Um, those are Yep.
+>> Wow, that's a ton. When did you launch?
+>> We we I mean, we launched uh in uh at
+the beginning of this year. Uh we only
+really started scaling uh very recently,
+right?
+>> That's wild. I mean, and and was your
+price always like 60 bucks a pop?
+>> Yeah, we've actually played a little bit
+with it. Um you know, sort of back and
+forth. Generally, it's been around 60
+$60. Uh but and that's the place we've
+been sort of most comfortable with.
+I mean, can I I mean, Ricardo, you know,
+my next question. Can I just do that
+math? I mean, can I do 100,000 sales
+times 60 a piece? You guys have done six
+million bucks in total revenue life to
+date.
+>> I uh uh you can do the math. I would I
+will I will say that of course we have
+some discounts like you mentioned the
+the 48, right? So, if you want to get
+accurate, we also have some volume
+discounts as well that we do. Uh and so,
+uh and so you fine, but still this is
+impressive. I mean, fair to say even
+with discounts, can I just say I'll be
+really conservative. You've done over $3
+million in lifetime sales so far. Mhm.
+Is that is that fair to say? That'd be
+like a 50% discount on the 60 on a $60
+on average.
+>> I'll say ballpark.
+>> Okay. I mean, that's that's pretty cool.
+I mean, I would not have expect when I
+was prepping for the thing and I'm
+going, "Okay, I don't know if they're
+live yet." Looking at the website, it's
+so so so simple. But then the first hint
+that you were bigger than I thought was
+when I saw the number of reviews, which
+is incredible. What would you sort of
+credit that kind of I mean, it's a very
+simple onboarding process. I mean, is
+that part of the magic? It's so simple.
+It feels like magic.
+>> Uh, correct. To be honest with you, I
+always wanted it to be like that. You
+know I in general the the companies I I
+worked at I've always wanted to kind of
+feel like end holding a little bit you
+know kind of guide you through in a
+linear path. Uh actually only recently
+were able to get it that way. This is
+kind of where you see this agentic
+products going to where it's like you
+know it just again takes you know it
+doesn't make you learn you know a s
+platform or whatever just just guides
+you over. So that's kind of always
+wanted to do. That's also where you only
+started scaling it more recently, right?
+Because we started essentially um being
+able to um um to deliver this kind of
+experience, right?
+>> Mhm. I just I just want to make sure I
+feel like I'm missing something, right?
+Because I'm trying to once I hear what
+your volume is, I'm going wait, holy
+crap, how is he getting all this
+traffic? So I stick your thing in ah
+refs, but this clearly is not your
+growth channel because you're you're
+only getting about 61 hits per per month
+via dream stores. Are you like I framed
+into some other sites somewhere? How are
+you getting all the all these sales? Uh
+I mean we're getting a lot via via you
+know via Facebook essentially. Uh so we
+actually not not doing so so much uh so
+much organic here.
+>> I see. Okay. So so you're like you have
+a community on tell me more about the
+Facebook strategy.
+>> Yeah. No I mean so one thing I've done
+I've done quite a lot at um at uh at
+Spotify and NF after was was paid
+acquisition. Right. actually with with
+Spotify we were extremely uh extremely
+early like on the mobile mobile ad
+networks and so on so forth. So it's not
+a community, right? Most of it is
+actually paid uh paid acquisition. Um
+>> and that's one thing that also one of
+the things I like about the the the sort
+of the way I I built these things is or
+the the category if you will is that the
+competition tends to be very like
+one-time oriented and uh you know if
+you're doing sort of if you're doing
+paid acquisition you know it's a bit
+obviously it's a bidding model so you or
+an auction model so you want to out beat
+people. So, of course, it's kind of just
+key to take something that is like a
+one-time purchase and turn it into an
+episodic thing that happens multiple
+multiple times over, right?
+>> This makes sense.
+>> If you can do it, so of course if you
+can do it, you can make the economics
+work. Yeah.
+>> Yeah. What So, I mean, you I got to dive
+deeper here because there's something to
+learn here. I mean, you've done paid
+spend, it sounds like a lot of places,
+and you're using it to launch your
+startup, which is which is pretty
+incredible in terms of a day one
+strategy. Most people wait to do paid
+ads until they have like a lot of scale.
+So, I guess how do you know what you're
+willing to pay on, you know, to get a 60
+a new $60 sale?
+>> Uh, how do I know? Is that the question?
+>> Yeah. What What is your target? Like,
+are you trying to spend under 10 bucks
+on the ad, you know, to get the to get
+the sale on on Facebook ads or under
+five bucks? How do you get the the
+ratio?
+>> Oh, yeah. No, I would like to, right?
+But what I usually tell people, and
+that's that's as a litmus in every
+single company I've worked, they said,
+"Okay, you haven't done any any ads.
+What do you expect your CAC to be?" I
+usually tell that you should ballpark it
+to around the the about ballpark around
+what their AOV is, which is not a great
+answer, but it tends to be the case.
+Like the agencies a lot of the times
+they kind of stop.
+>> Just to be clear, Ricardo, for folks
+that don't know the acronyms, AOV,
+you're basically saying you should
+ballpark that the the the what you'll
+spend on Facebook ads is equal to the
+average order value of the first
+checkout. So $60 for you or $48 for you.
+>> Yeah. Yeah. Yeah. Exactly. But that's
+that's like I said, if you're going to
+start, right, you you want to budget the
+you know, let's say you're aiming to get
+50 50 sales per per week or something.
+That used to be traditionally the thresh
+the threshold until fa Facebook
+considers that your campaigns are
+learned. So does if you have to budget,
+you kind of make the mats from that,
+right? So if it's 60, let's ballpark it
+to 60. Then of course, you know, why do
+you do that? Well, because there's a bit
+of arbitrage here. A lot of people use
+bid caps and whatnot. And so they stop
+bidding at at at when it crosses the
+under the sort of the the one bar. Uh
+and so like I said, if you're competing
+in
+>> under one
+>> other than one row. So essentially this
+idea of like you spend $60 to get $60,
+right? So does you have a row of one,
+right? Of course, by the way, you want
+to have higher than that, right? You
+want to have two, three, four, whatever
+you can get, right? What I'm trying to
+say is that a lot of the times there's a
+bit of an arbitrage around one because
+that's where everyone else starts stops
+spending up until that point, right? And
+um and so essentially if but if you can
+take like something that is the again if
+your competition is doing let's say 60
+right if you imagine and and of course
+you cannot beat above it because you
+have either repeat behavior or so so
+forth then of course you cannot beat
+them and you can make the the the
+economics work right and uh in this
+category um you know not not
+coincidentally the reason why I picked
+this category is because there was there
+was an existing behavior which was
+gifting right around people gifting to
+to others and you know and you can
+search personalized books right there's
+a category with a lot of products um
+some better than others and does you
+know the behavior was there my challenge
+was essentially just to build something
+that is that is better or slightly
+better and be able to just outbe them
+right
+>> yeah what so what are what are the rest
+of the economics in there like how do
+you how do you really grow this thing
+right because if you're spending 60
+bucks just to get the sort of the
+customer email right to try and resell
+on the second thing but your margin also
+gets cut a little bit too right because
+you actually have to print and ship
+these books Right.
+>> Mhm. Yeah. Yeah, we do. Uh but like I
+said, the the the upside of this is
+essentially the the repeat purchases,
+right? The essentially getting people to
+do it. In this case, you're you know,
+you you put an adult, right? But what
+happens a lot of the times, and this is
+actually one of the things where the
+only people that I've seen doing it. We
+have multiple characters per book.
+>> Uh like I said, in this case, to add
+both of them, you'd need to in the book,
+you know, there's a button to add
+someone else. So, what ends up happening
+is that a lot of the times people will
+add different members of the family,
+cousins, so on so forth. And as a
+consequence, they end up um they end up
+uh you know, they end up getting what I
+call reverse books. So essentially, can
+I get the exact same book, but the other
+kid is the hero, right? So they just
+reverse it. Um and um it's a it's a
+common behavior we see. Of course, the
+stories are episodic as you can see
+there. And um you know, we have a number
+of templates that we created with with
+artists, but you know, eventually I want
+this to be infinite, right? essentially
+and that's what we're working on the
+infinite content machine that
+essentially can you know you like
+dinosaurs great you can have you know
+you can keep on going with dinosaurs you
+know for the rest of the journey right
+>> how are you did you is this hardcoded
+you're programmatically running the
+economics on how to offer the discounts
+or using some plug-in or API tool to
+figure out how to drive up conversion
+and and a on this page
+>> no that's all in house actually we built
+that ourselves
+>> really interesting I imagine you built
+some secret sauce into that that no one
+else ask is is can is that true and if
+so can you give us a hint?
+>> You mean the the sort of the general
+e-commerce stuff?
+>> Yeah, I mean right there's a lot of
+these tools that help you like drive up
+AOV on the last page, right? Like you
+know you know double the order, increase
+the size, get one for your friend, you
+know, a discounting, right? You chose to
+build it from scratch for a reason.
+>> Yeah. I mean, I've been So, the thing is
+that there's a lot of things out there
+that work very well for, you know,
+e-commerce e-commerce sites or with a
+with a lot of SKs and and, you know, and
+sort of I wouldn't I don't want to call
+generic products because I don't want to
+imply they're less there's anything bad
+about them. But in our ca in my case you
+know we both kinko the snack company in
+this one uh you know it's generally I'm
+trying to build a service uh so
+something that that essentially feels
+more like a service and so does I end up
+end up building a lot of stuff like that
+is actually custom so what you see here
+this is Shopify right and it's very
+standard everything else you see is is
+customuilt right it's not so we only use
+really Shopify for the last last piece
+and order management and so on so forth
+>> this is super interesting
+well I just have to tell you I mean when
+we are prepping this like and I saw the
+website like okay maybe he's pre-reving
+or not because it just looks so simple
+but once you get in holy mackerel
+there's a lot of thought inside of this
+thing
+>> and and I have to tell you I think
+you're actually in the AB test there
+you're seeing a version that I like
+least [laughter] so so I uh I wish in a
+way I wish that you were seeing I was
+like you're showing this and I'm like oh
+I wish you was showing the the
+>> how many AB tests are you running at any
+given point in time
+>> o uh it's quite a lot right the problem
+is that you you know right now I can
+tell running four the the problem is
+that depending on what you're testing
+you eventually start getting a lot
+across the results and just start
+needing needing a lot more scale to to
+make sense of the you know of the of the
+sort of the statistical stuff here.
+>> What plugin are you using for this? A
+lot of people don't like some of these
+like review sites where they basically
+own all your reviews if you don't pay
+them massive amounts of money. What did
+you use to build out this sort of all
+>> Yeah, this I I'm glad to give him a
+shout out because I really like them.
+That's looks uh L O X. Um X. Yeah. Uh
+yeah, I'm super happy with them. They're
+very good, very good at getting videos.
+Uh, as you saw, you saw some on the
+funnel there. Um, they're, yeah, they're
+actually a plug-in we use that we're
+very, very happy with. It's also that
+sometimes you deal with companies that
+that you can just tell that they, you
+know, they really go the extra mile.
+They they mean business in a way, right?
+And it's it's hard to describe, but if
+you set up something with them, you're
+kind of going to understand that, you
+know, they're competent, right? I don't
+know. We're I don't know if you're I'm
+sure everyone has at some point dealt
+with just companies that just oh in
+this guy is just so bad. Looks looks is
+like I'm just very very happy with them
+and impressed with overall their their
+funnels, their setup, their level of
+polish. It just seems like they care,
+you know.
+>> I love that. I love that. This is super
+man. I'm just I'm learning so much on
+this. So, I know my audience is going to
+love this. Um I guess let me get a sense
+of how I just asked you how many AB
+tests running. You said four. I mean,
+how aggressive are you being on your on
+your big channel like the paid spend
+stuff? Are you comfortable sharing how
+much you're spending like per month? is
+is like six figures on Facebook ads or
+or less.
+>> Uh it's um yeah, it it honestly really
+depends. I think this month, yes, we're
+in the six figures, but you know, we're
+kind of changing it uh often, you know,
+oftent times like we we end up sharing
+it back and forth.
+>> Okay. And immediately people are going
+to go, okay, this guy must have raised a
+bunch of money to do that or he's just
+he's really rich Pong and his own money.
+Which one is it? Or did I miss an
+option?
+>> No, I mean again, if you make the
+economics work, you don't need you kind
+of need either, right? I I don't want to
+I don't think there's such a thing as
+like free lunch, right? So, I'm not
+going to tell you there's, you know,
+there's a golden pot here. You should
+come eat it. But it does does take a lot
+of uh it does take a lot of work, right,
+to to build this uh uh to build it. So,
+so yes, I did put a put some money. I
+did raise a little bit of money, not not
+a lot externally, but I but you know,
+I'm essentially building an AI content
+startup. Usually, there's extremely
+capital intensive. And the difference
+with me is that I chose to go a route
+where instead of giving people, you
+know, essentially for free that I
+have to subsidize, let me come up with a
+from day one a model that I can monetize
+it. So while in a sense it's more I'm
+building in a more conservative manner
+if you think about it because you know
+it's it also brings a lot of headaches
+because I'm constantly having to balance
+the long-term vision of what we're
+building with the short-term you know
+sort of economics. It's not always easy
+uh you know but um but and it it also
+feels more grounded right I think
+sometimes one thing I see in some in
+some uh startups is that let's put it
+where they go for bust and that's
+sometimes really good right because it
+really works right but then other times
+you know you see that they launch a
+product and it doesn't stick and then
+you know you spent all this money and
+time building something that you never
+had market validation right so I kind of
+was a bit more some people would say
+conservative in a good way some people
+would say conservative in a bad way
+right that you're being too conserv
+conservative. Uh but that's nonetheless
+uh what I've uh what I'm doing.
+>> And what uh so are you comfortable
+sharing how much you raised in your seed
+round for this company.
+>> Um to be honest with you, I never
+shared, but I can tell it was less than
+than a million externally. Oh,
+>> okay. Okay. Got it. Okay. Well, look, we
+I told you we would talk about your
+where you're at today and then get your
+story. I got so intrigued with your
+story. I mean, your where you are today.
+I didn't ask anything about your story.
+Let's go just backwards for a second.
+So, SP Spotify 2009, then you do KKO. I
+believe you did what a 3.4 $4 million I
+think raise there. It was a a
+freeze-dried smoothie based off my
+research. What happened to that company?
+>> Yeah, with we raised more with Kinko. I
+think that uh to be honest, top of my
+mind, I remember maybe 20 or 30 million
+total for for the company. Yeah. Uh the
+f maybe you're talking about the first
+round which was a 3 million 3 million
+round 3 million seed round
+>> the seed. Yeah.
+>> Yeah. Yeah. No, it's it's still around.
+I think that the uh you know with um you
+know uh I basically I've always had an
+interest in in southern nutrition and
+food tech in particular. Um and so I you
+know uh I I got introduced to a guy that
+was making some experiments with it and
+I saw like an opportunity to build a
+service around it again as opposed to a
+to a one-time thing.
+>> And uh so that's what that's what I did.
+Now the company moved a little bit away
+from sort of the sort of direct to
+consumer into sort of selling on on
+retail channels. In fact, that's also a
+plug I can make. You know, you should go
+to Walmart or CVS and and buy it, you
+know. Uh I'm still I'm still a large
+shareholder in the company, so I would
+appreciate that. Um but yeah, but it but
+it moved away a little bit for or for
+that um for for that um for essentially
+those channels, right? And so
+>> so your co-founder Thomas, he's he's
+still running it then.
+>> Absolutely. Yeah. And he's doing a great
+job. You know, he's a I think I'm more
+of a digital slashtechnology guy. He's
+more of a traditional CPG guy. So we're
+actually a great team in that regard.
+But when the company, you know, we made
+this decision together to move more into
+retail and, you know, and I felt, you
+know, he's the right guy to lead it,
+right? And so does I stepped I stepped
+down from the role, but you know, no uh
+nothing bad happened there, right? Just
+basically different direction for the
+company that, you know, made more sense
+for Tomas to to lead for the long run.
+>> Yep. Yep. Super cool. Well, hey,
+>> go buy it at Walmart. So I uh so I feel
+like it was a good decision.
+That's smart. Okay, cool. Um, last
+question then I'll throw it over to you.
+How many folks are full-time right now
+at the business?
+>> Yeah, we're very small team. We are uh
+we're currently seven on the team. So,
+very very uh very small team. Most of
+them engineers um you know as as like
+say as we build out the platform, right?
+>> Yeah, makes a lot of sense. Are you
+using any technology to drive uh all the
+when someone clicks one of your Facebook
+ads, they just go to your homepage or
+are you doing like a bunch of funnel
+testing there too?
+Uh we do but it's mostly in house right
+this similar to the platform we use for
+for a AV test I mean we use it's not a
+secret we use we use post talk for for
+our data analytics and so forth also
+shout out to them probably the best anal
+I feel like every two years or something
+there's a new shiny platform uh so maybe
+in two years we talk and I'll tell a new
+one but post is really good I would
+really recommend it shout out to them uh
+and so that's kind of what what we use
+>> just to be clear postthog you're talking
+po this one right post hog this is their
+website, right?
+>> Correct. Yeah. They're very funny, too.
+Their website is not very serious, you
+know. Unusual.
+>> Yeah. Unusual for uh you know, B2B's B2B
+S, but nonetheless, it's very cool.
+>> It works. Yeah. So, that's part of your
+tech stack. Look as part of your tech.
+Any other tech thing that that you use
+that have just blown you away that you
+want to give a shout out to?
+>> Um I mean, not new, right? But I think
+Shopify is still very good, right? You
+know, I I I'm quite impressed with the
+product and we used it, you know, with
+Kenko and and now for a very long time,
+but that's not like the I I guess that's
+not what your what your audience wants
+to hear, right? Because everyone already
+knows that. But still, shout out to
+them. I think they they do a good job
+and uh you know, they do what they do
+very well.
+>> Yeah. No, look, we we love the space. I
+mean, you know me as podcast host
+because that's how your rep reached out.
+But my full-time thing is, you know,
+we've deployed a quarter billion dollars
+into companies as non-dilutive capital.
+my own fund and we've just started
+deploying money into Shopify uh
+applications like funding basically ad
+spend exactly almost exactly what you're
+doing right um and just undercutting
+[clears throat] Shopify money it's a
+huge and powerful ecosystem so
+>> uh makes tons of sense anything else
+that you that I should have asked you
+that I didn't over the past 15 20
+minutes
+>> uh you should ask me if I'm hiring
+because I am hiring
+>> yes I'm hiring um so please you know you
+know you can email like jobsai
+um what are you looking for otherwise
+Uh I mean mostly engineering right you
+know um
+engineering particularly around AI right
+machine learning engineers um or
+whatever we're calling it these days is
+it keeps keeps evolving um but
+essentially that's what that's what
+we're looking for right like I said
+we're the the part of the business that
+we discuss is very much what the what
+the business is today right I I have
+like I said this longer vision of like
+where I believe content generally will
+go in that spans beyond books and and
+and so forth so you We need people to
+actually execute it.
+>> Yep. I love that. Cool, Ricardo. Well,
+look, uh, appreciate you coming on and
+sharing your story with us, guys. I
+thought it was a simple website that was
+pre-revenue. Turns out they've done over
+three million bucks in revenue driven
+mainly using Ricardo's brain when it
+comes to using paid ads and their
+Facebook page to drive a lot of traffic
+and a really impressive almost a almost
+a stupid simple onboarding process that
+just feels like magic when you do it to
+the point where you get a great
+customized sort of book. Main use case
+right now is kids, but who knows where
+he'll take it in the future. He's got
+his own kid. He's building this for
+seven people full-time on the team under
+a million raised. We'll see what happens
+next. Ricardo, thanks for taking us to
+the top. DreamStories.ai.
+>> Thank you. Thank you. Nathan speaks.
