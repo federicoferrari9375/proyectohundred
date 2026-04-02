@@ -1,0 +1,32 @@
+# Alex Berman — Latest LinkedIn posts (collected)
+
+**Profile:** [Alex Berman on LinkedIn](https://www.linkedin.com/in/alexanderberman)  
+**Collected:** 2026-04-01  
+
+These are the **two most recent posts** for which full text was available from public LinkedIn post pages at collection time, ordered by LinkedIn activity ID (higher ID = newer). The public figure for this name is the agency / cold-email creator (Galadon Gold); other LinkedIn users share the same name. LinkedIn may show additional or newer posts when signed in; this snapshot reflects publicly accessible content only.
+
+---
+
+## Post 1 (most recent in this snapshot) — “Scheme thinking” (Galadon Gold member call)
+
+**URL:** https://www.linkedin.com/posts/alexanderberman_i-just-got-off-the-phone-with-a-new-galadon-activity-7373026492592726016-cgxT  
+
+**Context shown on public page:** Galadon Gold • ~28K followers • “6mo” relative to page snapshot  
+
+**Body:**
+
+I just got off the phone with a new Galadon Gold member who is successful in his own right... Nice house. Good business cash-flowing a million a year. But when I asked him what he wanted to do (and how I can help him scale), well... He had a million ideas. I'm gonna grow this business And raise money from these other people And sell this kinda thing The wild thing to me is... NONE of these ideas was "let me take this 1m business and make it 2m" I'm not putting him on blast - I just share this because it's so common We've all been there... When I first got my lead gen company to a million a month... I started a marketing company When the marketing company started doing well I bought multifamily real estate When passive income got boring, I moved to LA and tried to start a production company Then I sold courses Then we did SaaS Sound familiar? If you've felt this pull to jump to the next thing, I want to help you break out of it. I call it "Scheme Thinking" and it's poison for your success I get it. When we're starting out having a mansion or nice clothes or a cool watch is the dream... For me it was the freedom... being able to live anywhere and everywhere without needing to have calls or meetings with angry clients But once we MAKE IT (and a lot of you have "made" it in the sense that you could be the richest in your circle of friends) At that point it's tempting to think you're above the work that got you here So you want to take your 100k and invest it in some guru scam Or put it in crypto like I did and light it on fire When really - God didn't give you all this money so that you could burn it all on some unrelated nonsense... God (or the universe or however you want to think about it) gave you money through this channel because it's WHAT YOU WERE MEANT TO DO. You are blessed. You have a path. And so you have to think of all these schemes and business ideas as what they are... poisonous distractions that will pull you off the path I've never been in the world of getting mortgages or using other people's money for stuff... If you want money you go earn it (in a way that doesn't have a high risk of you ending up in prison) and then you put that into an index fund That's it. 100k in the index will be one million in 27 years. And while that's growing you can work on getting the next 100k from your current profitable business You DO NOT need to fall for scams Please. There's no "secret" to any of this. If you're serious about scaling what's already working - not starting over from scratch - I'll help you make that happen inside Galadon Gold. We're reviewing applications this week. Talk soon, Alex P.S. Scaling isn't about chasing new ideas, it's about doubling down on what works. If you're ready to do that, apply here before spots fill up.
+
+---
+
+## Post 2 — Breaking through the $1M barrier in your agency
+
+**URL:** https://www.linkedin.com/posts/alexanderberman_i-see-this-often-an-agency-owner-hits-activity-7368298482404610048-IJvP  
+
+**Title (AI summary on public page):** How to Break Through the $1M Barrier in Your Agency  
+
+**Context shown on public page:** Galadon Gold • ~28K followers • “7mo” relative to page snapshot  
+
+**Body:**
+
+I see this often... an agency owner hits $1M/year but feels like they've hit a wall: They think the problem is external - bad hires, bad clients, or bad referrals - but in reality, the roadblock is internal. Since I've helped hundreds of agencies break through that $1 million barrier (and thousands more scale with Galadon Gold) here's my advice: 1. Stop Thinking of Money as Survival After you clear 12k in profit, your personal bills aren't getting much higher. Start thinking of money as points on a scoreboard. I do this with micro-goals - started with saving $1,000, then 22k, then 44k, then 100k in the bank, then filling up my kid's trust funds. The ONLY limit on how much you make is that you're tolerating less. 2. "Scheme" Thinking Once you have a business making profit... YOU DON'T NEED ANOTHER BUSINESS. Whatever worked when you started - cold emails, cold calling, events - KEEP DOING THEM. The second you hit 1 million in revenue is not the time to launch a course or start a SaaS.... it's time to get to 2 million, then 3 etc. This is the clarity we help agency owners achieve inside Galadon Gold. 3. Small-Minded Hiring At Galadon Gold I only hire top quality people as coaches - 4 Americans and a dude from Dubai. Not a single one is underpaid, and all have the right mindset. None of us need management - we all show up on time and nobody needs to be handheld. Compare that to my last agency when we hired junior talent from india, the philipines, and eastern europe and ended up with client disasters. Calls at 3am. Stress. No sleep. No profit. 1 million in revenue is 83k a month... spend it on the BEST people, not a large quantity of low performers. 4. Short-Term Thinking When you were small, every hire felt like it might bankrupt you. Well, you gotta calm down. Let people run for 3, 6 even 9 months at a time. Do the interviewing, and once you trust they will deliver... Write off the money as gone and let them run. These are the exact things we teach 7 times a week inside Galadon Gold. If you're ready to stop worrying about your paycheck and start growing a business you can be proud of... Then hop in here - it's only $497/month (cancel anytime) P.S. I was talking to one of our $1M agency owners inside Gold yesterday, and it reminded me of how close success can feel. Will you be next?
