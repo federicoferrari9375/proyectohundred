@@ -1,5 +1,5 @@
 Title: Automatically Manage Marketing Contacts in HubSpot
-Author: alischwanke 
+Author: Ali Schwanke 
 Date: 2025
 Source: https://www.youtube.com/watch?v=uLRnkCF5lN8
 
