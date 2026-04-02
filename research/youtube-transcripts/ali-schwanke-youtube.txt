@@ -4,272 +4,137 @@ Date: 2025
 Source: https://www.youtube.com/watch?v=uLRnkCF5lN8
 
 Transcript:
-0:00
 If you're using HubSpot for marketing,
-0:01
 one of the most important things is to
-0:02
 keep an eye on your number of marketing
-0:04
 contacts and use the system to automate
-0:06
 some of that so you're not paying to
-0:07
 market to people that don't want to be
-0:09
 marketed to or maybe have bounced or
-0:11
 disqualified. So, we're going to use a
-0:12
 workflow to manage all this on the back
-0:14
 side. You can also adjust some
-0:15
 parameters on the front as well, but
-0:17
 let's dive in and show you how this
-0:18
 works.
-0:21
 So here we're going to be in our
-0:22
 workflow and we're actually going to use
-0:24
 lists for an enrollment trigger in this
-0:26
 uh particular case because we want to
-0:27
 have the ability for these contacts to
-0:29
 reenroll. So before we jump in here to
-0:31
 the workflow, we're actually going to
-0:32
 jump over to these lists that I created
-0:34
 in advance here. So we've actually got
-0:36
 four lists that we're going to be using
-0:37
 in this particular example. So the first
-0:39
 one we're going to have email hard
-0:41
 bounces are known. So in this case, the
-0:43
 parameter is email hard bounce reason is
-0:45
 known. So these people have an email
-0:47
 that would have bounced. So, we don't
-0:48
 want to pay for them to be marketing
-0:49
 contacts. Opted out of email. This one
-0:52
 we're going to be opted out of all
-0:53
 marketing information. Again, if I edit
-0:55
 this filter, we're going to select all
-0:57
 of the email subscriptions that we
-0:58
 currently have. And then we want to make
-1:00
 sure to not market to those folks. So,
-1:02
 that's one. The lead status is
-1:03
 unqualified or do not contact. So, in
-1:06
 this case, we have a lead status. And
-1:07
 that happens to be a field that we use
-1:09
 internally to help us uh determine
-1:11
 whether or not this person is actually
-1:13
 going to be worthy of our follow-up or
-1:15
 our marketing. So in this case, if they
-1:16
 say, "Don't ever contact me again."
-1:18
 Again, not worth paying for or
-1:20
 unqualified. And the last one would be
-1:23
 any employees. So in this case, we're
-1:24
 using Simplestrat. We've got a lot of
-1:26
 test data in here as well, but we do not
-1:28
 want to pay to have our own employees.
-1:30
 This one is especially important if you
-1:31
 have a very, very large organization
-1:33
 because you end up paying for a lot of
-1:35
 people in the system that may not
-1:36
 actually be your target customer. So now
-1:38
 that we've got these four lists, let's
-1:40
 jump over to our workflow. And we're
-1:42
 going to start with with uh data values
-1:44
 in terms of list membership being
-1:45
 changed. So when they happen to be a
-1:47
 member of a list. So we're going to put
-1:49
 this as the hard bounces
-1:53
 here. So if they then become a member of
-1:56
 this list or if they become a member of
-1:58
 the opt out newsletter here. And then
-2:03
 another criteria is going to be that
-2:04
 other list that we have of employees
-2:08
 here. And then our last one's going to
-2:10
 be the list of disqualified.
-2:15
 Okay, so all of our lists here are an or
-2:18
 so that they can meet any of these
-2:19
 criteria. And we're going to hit next.
-2:20
 And then we do want to allow
-2:22
 reenrollment. So if we happen to have
-2:24
 someone that's a net new bounce, they
-2:26
 actually then move to non-marketing
-2:27
 status as well. So over here in the
-2:30
 preview, it'll show us that yes, these
-2:32
 people who meet this criteria will get
-2:33
 reenrolled. Lists are also the reason
-2:35
 why we do this because you cannot
-2:37
 reenroll based on a status uh specific
-2:40
 property for lead status or life cycle
-2:42
 stage. So we're going to actually use
-2:43
 our list here. All right. Now that we've
-2:46
 got this, we're going to move over to
-2:47
 our configuration here to set as
-2:49
 marketing contacts. So again, right now,
-2:51
 if I just type in and look for the
-2:52
 actions over here on the lefth hand
-2:54
 side, I want to set as marketing contact
-2:56
 status. And I'm going to take the
-2:58
 enrolled contact and I'm going to make
-2:59
 them a non-marketing contact. So that's
-3:02
 about as straightforward as it is. If
-3:03
 you don't have marketing contacts in
-3:05
 your HubSpot portal yet, this will not
-3:07
 show up. You won't even have to worry
-3:08
 about this thing. But most of us are in
-3:10
 this uh realm when we don't want to pay
-3:11
 for people that again are not uh a fit
-3:14
 for us. And we're going to save that.
-3:15
 And then our last opportunity here is to
-3:17
 review and publish. So it's going to
-3:18
 give us the people that meet this
-3:19
 criteria. So in this case, if we're
-3:21
 doing this as a cleanup action, most
-3:22
 likely we do want to enroll everybody
-3:24
 that meets that criteria. Um we've got
-3:26
 some other options here. If you happen
-3:27
 to have enterprise, we can get uh
-3:29
 alerted for any sort of uh you know
-3:31
 issues or timing and performance. In
-3:33
 this case, we don't have a suppression
-3:34
 list. If you wanted to have a
-3:35
 suppression list of let's say people
-3:37
 that are employees that need to be on
-3:39
 every single marketing email, you may
-3:41
 actually have a suppression list. So,
-3:43
 you can keep those employees in so they
-3:44
 get a copy of your email and then I can
-3:46
 turn on that workflow. So, that's going
-3:48
 to be it. That's all we need to do in
-3:50
 order for us to manage those marketing
-3:51
 contacts and hopefully keep your bill a
-3:53
 little bit lower and not have that bar
-3:55
 at the top where it says, "Hey, you're
-3:56
 about ready to be build for the next
-3:58
 cycle." That's it for this workflow. Hit
-4:00
 that subscribe button for more tips,
-4:01
 tricks, and how-tos, and we'll see you
-4:02
 next time.
-
